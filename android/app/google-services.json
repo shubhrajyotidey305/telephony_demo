@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875117440237",
+    "project_id": "telephony-demo",
+    "storage_bucket": "telephony-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875117440237:android:64b028be57fdbebd9970e4",
+        "android_client_info": {
+          "package_name": "com.example.telephony_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875117440237-03ev050mibcckqaecgvb8m2v2989ddhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sHFIFZYafREyoOETagq623tS_9S0Thg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875117440237-03ev050mibcckqaecgvb8m2v2989ddhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
